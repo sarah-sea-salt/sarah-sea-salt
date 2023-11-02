@@ -1,4 +1,4 @@
-Howdy! My name is Sarah Amiri, and I’m interested probabilistic programming + deep generative modelling projects centered on how the living ocean is linked the the atmosphere. I’m looking to collaborate on open source ocean-to-atmosphere projects that include field measurements & spatial/satellite repositories. If you have a project in mind, let's chat!
+Howdy! My name is Sarah Amiri, and I’m interested probabilistic programming + deep generative modelling projects centered on how the living ocean is linked to the atmosphere. I’m looking to collaborate on open source ocean-to-atmosphere projects that include field measurements & spatial/satellite repositories. If you have a project in mind, let's chat!
 Email: sarah.salt.amiri@gmail.com
 
 <!---
