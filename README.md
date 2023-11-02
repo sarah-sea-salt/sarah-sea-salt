@@ -1,7 +1,4 @@
-Howdy! My name is Sarah Amiri - @sarah-sea-salt
-I’m interested in marine microbial driven interactions with the Marine Boundary Layer in the regional to global ocean.
-Interests: Probabilistic programming in python & the upcoming NASA PACE satellite's biggest fan.
-Collaborations: I’m looking to collaborate on open source ocean to atmosphere projects that include field measurements & spatial/satellite repositories. If you have a project in mind, let's chat!
+Howdy! My name is Sarah Amiri, and I’m interested probabilistic programming using Python, and I’m looking to collaborate on open source ocean to atmosphere projects that include field measurements & spatial/satellite repositories. If you have a project in mind, let's chat!
 Email: sarah.salt.amiri@gmail.com
 
 <!---
